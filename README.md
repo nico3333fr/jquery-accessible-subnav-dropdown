@@ -106,6 +106,8 @@ You can see a working demo here: http://a11y.nicolas-hoffmann.net/subnav-dropdow
  
  <h2 id="other-informations">Other informations</h2>
 
+ <p class="mb1">7th of February 2016: <a href="https://www.npmjs.com/package/jquery-accessible-subnav-dropdown">this plugin is available on NPMjs.com</a>, and you can install it with <code>npm i jquery-accessible-subnav-dropdown</code>.</p>
+
  <h3 class="mt0" id="license">License</h3>  
  
  <p>No license problem, it uses <abbr title="Massachusetts Institute of Technology">MIT</abbr> license, so <strong>it’s free, open-source and you can do whatever you want with it, including commercial use</strong>. <a href="https://github.com/nico3333fr/jquery-accessible-subnav-dropdown/blob/master/LICENSE">This permission notice</a> shall be included in all copies or substantial portions of it. </p>
@@ -117,7 +119,7 @@ You can see a working demo here: http://a11y.nicolas-hoffmann.net/subnav-dropdow
  
  <h3 class="mt0" id="used-by">Used by</h3>  
  
- <p>This plugin has been used for example on <a href="http://www.visionlaser.ch/">Vision Laser</a>.</p> 
+ <p>This plugin has been used for example on <a href="http://www.visionlaser.ch/">Vision Laser</a> or on <a href="http://ohchr.org/">Office of the High Commissioner for Human Rights</a>.</p> 
 
  <h3 class="mt0" id="tribute">Tribute</h3>  
  
