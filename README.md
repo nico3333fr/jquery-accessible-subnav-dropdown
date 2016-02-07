@@ -106,6 +106,8 @@ You can see a working demo here: http://a11y.nicolas-hoffmann.net/subnav-dropdow
  
  <h2 id="other-informations">Other informations</h2>
 
+ <h3 class="mt0" id="last-news">Last news</h3>
+
  <p class="mb1">7th of February 2016: <a href="https://www.npmjs.com/package/jquery-accessible-subnav-dropdown">this plugin is available on NPMjs.com</a>, and you can install it with <code>npm i jquery-accessible-subnav-dropdown</code>.</p>
 
  <h3 class="mt0" id="license">License</h3>  
