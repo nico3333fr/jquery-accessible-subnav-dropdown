@@ -149,7 +149,7 @@ $(document).ready(function(){
                $subnav_item = $this.parents('.js-nav-system__subnav__item'),
                $nav_link = $subnav.prev('.js-nav-system__link'),
                $nav_item = $nav_link.parents('.js-nav-system__item'),
-               $nav = $nav_link.parents('.js-nav-system__item');
+               $nav = $nav_link.parents('.js-nav-system');
 
            // event keyboard bottom
            if ( event.keyCode == 40 ) {
@@ -224,7 +224,7 @@ $(document).ready(function(){
                    $prev.focus();
                    $subnav_prev = $prev.next('.js-nav-system__subnav');
                    if ($subnav_prev.length === 1){
-                       $subnav_prev.find( ".js-nav-system__subnav__item:last-child ").children( ".js-nav-system__subnav__link" ).focus();
+                       $subnav_prev.find( ".js-nav-system__subnav__item:first-child ").children( ".js-nav-system__subnav__link" ).focus();
                        }
                   }
                   // else activate prev
