@@ -2,7 +2,7 @@
   "title": "jQuery accessible keyboard-enhanced dropdown navigation",
   "name": "jquery-accessible-subnav-dropdown",
   "description": "This jQuery plugin will enhance the keyboard navigation on a “classic” drop-down menu, by adding support of arrows.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "keywords": [
     "Accessibility",
     "jQueryPlugin",
