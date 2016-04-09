@@ -96,11 +96,6 @@ You can see a working demo here: http://a11y.nicolas-hoffmann.net/subnav-dropdow
   display: block;
 }
 </code></pre>
-
-  <p>Then put the code of the plugin between: </p>
-          <pre><code class="language-javascript">$(document).ready(function(){
-    // put the code of the plugin here
-    });</code></pre>
 	
   <p>The plugin will do the rest. Yes, just for you.</p>
  
@@ -108,9 +103,16 @@ You can see a working demo here: http://a11y.nicolas-hoffmann.net/subnav-dropdow
 
  <h3 class="mt0" id="last-news">Last news</h3>
 
+ 
+ <p>9th of April 2016: <a href="https://github.com/nico3333fr/jquery-accessible-subnav-dropdown/issues/3">fixed and enhanced keyboard management in subnavs</a>, thanks again to <a href="https://twitter.com/jbcordina">@jbcordina</a>.</p>
+ 
+ <p>27th of March 2016: <a href="https://github.com/nico3333fr/jquery-accessible-subnav-dropdown/commit/02ac9e2d76447b14e0ec48d45684f4e7eaa9145d">fixed two bugs in keyboard management</a>, thanks to <a href="https://twitter.com/jbcordina">@jbcordina</a>.</p>
+ 
+
  <p class="mb1">7th of February 2016: <a href="https://www.npmjs.com/package/jquery-accessible-subnav-dropdown">this plugin is available on NPMjs.com</a>, and you can install it with <code>npm i jquery-accessible-subnav-dropdown</code>.</p>
 
  <h3 class="mt0" id="license">License</h3>  
+
  
  <p>No license problem, it uses <abbr title="Massachusetts Institute of Technology">MIT</abbr> license, so <strong>it’s free, open-source and you can do whatever you want with it, including commercial use</strong>. <a href="https://github.com/nico3333fr/jquery-accessible-subnav-dropdown/blob/master/LICENSE">This permission notice</a> shall be included in all copies or substantial portions of it. </p>
  <p>However, it is not prohibited to tell me that you’ve used it, or send me a little “thank you”. ;) </p>
